@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Static Info Tables Language Pack</description>
+		<type>database</type>
+		<csh_table></csh_table>
+		<labelContext type="array">
+		</labelContext>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="static_territories_item.tr_name_sk">Name (SK):</label>
+			<label index="static_countries_item.cn_official_name_sk">Official name (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Short name (SK):</label>
+			<label index="static_country_zones_item.zn_name_sk">Name (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Name (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Name (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Sub name (SK):</label>
+			<label index="static_taxes_item.tx_name_sk">Tax name (SK):</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Offizieller Name (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Kurzname (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Name (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Name (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Sub-Name (SK):</label>
+			<label index="static_taxes_item.tx_name_sk">Steuername (SK):</label>
+		</languageKey>
+
+		<languageKey index="it" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Nome ufficiale (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Nome breve (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nome (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nome (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Nome decimali (SK):</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="static_territories_item.tr_name_sk">Nom (SK):</label>
+			<label index="static_countries_item.cn_official_name_sk">Nom officiel (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Nom court (SK):</label>
+			<label index="static_country_zones_item.zn_name_sk">Nom (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nom (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nom (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Nom de subdivision (SK):</label>
+			<label index="static_taxes_item.tx_name_sk">Dénomination de la taxe (SK):</label>
+		</languageKey>
+		<languageKey index="es" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Nombre oficial (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Nombre corto (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nombre de idioma (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nombre (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Nombre de subdivisión (SK):</label>
+			<label index="static_taxes_item.tx_name_sk">Denominación del impuesto (SK):</label>
+		</languageKey>
+		<languageKey index="pl" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Nazwa oficjalna (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Krótka nazwa (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nazwa (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nazwa (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Podnazwa (SK):</label>
+		</languageKey>
+
+		<languageKey index="fi" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Virallinen nimi (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Lyhyt nimi (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nimi (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nimi (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Alanimi (SK):</label>
+		</languageKey>
+		<languageKey index="ru" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Официальное название (англ.):</label>
+			<label index="static_countries_item.cn_short_sk">Короткое имя (англ):</label>
+			<label index="static_languages_item.lg_name_sk">Имя (англ):</label>
+			<label index="static_currencies_item.cu_name_sk">Имя (англ):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Под-имя (англ):</label>
+		</languageKey>
+		<languageKey index="ro" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Numele oficial (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Nume prescurtat (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nume (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nume (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Subnume (SK):</label>
+		</languageKey>
+
+
+		<languageKey index="br" type="array">
+			<label index="static_countries_item.cn_official_name_sk">Nome oficial (SK):</label>
+			<label index="static_countries_item.cn_short_sk">Nome curto (SK):</label>
+			<label index="static_languages_item.lg_name_sk">Nome (SK):</label>
+			<label index="static_currencies_item.cu_name_sk">Nome (SK):</label>
+			<label index="static_currencies_item.cu_sub_name_sk">Sub nome (SK):</label>
+		</languageKey>
+
+	</data>
+</T3locallang>
