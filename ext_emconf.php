@@ -5,10 +5,7 @@ $EM_CONF[$_EXTKEY] = [
     'description' => '(sk) language pack for the Static Info Tables providing localized names for countries, 
                         currencies and so on.',
     'category' => 'misc',
-    'shy' => 0,
-    'version' => '6.2.0',
-    'dependencies' => 'static_info_tables',
-    'conflicts' => '',
+    'version' => '6.3.0',
     'priority' => '',
     'loadOrder' => '',
     'module' => '',
@@ -17,11 +14,9 @@ $EM_CONF[$_EXTKEY] = [
     'createDirs' => '',
     'clearcacheonload' => 1,
     'lockType' => '',
-    'author' => 'Daniel Schlohmann',
-    'author_email' => 'info@schlomania.com',
-    'author_company' => 'schlomania WebDesign',
-    'CGLcompliance' => '',
-    'CGLcompliance_note' => '',
+    'author' => 'Manuel Selbach',
+    'author_email' => 'manuel_selbach@yahoo.de',
+    'author_company' => '',
     'constraints' => [
         'depends' => [
             'static_info_tables' => '2.3.2-6.3.99',
@@ -32,7 +27,5 @@ $EM_CONF[$_EXTKEY] = [
         ],
         'suggests' => [
         ],
-    ],
-    'suggests' => [
-    ],
+    ]
 ];
