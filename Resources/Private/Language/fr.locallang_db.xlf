@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2014-01-26T15:19:07Z" product-name="static_info_tables_sk" target-language="fr">
+        <header></header>
+        <body>
+            <trans-unit id="static_territories_item.tr_name_sk" xml:space="preserve">
+                <source>Name (SK):</source>
+                <target>Nom (SK):</target>
+            </trans-unit>
+            <trans-unit id="static_countries_item.cn_official_name_sk" xml:space="preserve">
+                <source>Official name (SK):</source>
+                <target>Nom officiel (SK):</target>
+            </trans-unit>
+            <trans-unit id="static_countries_item.cn_short_sk" xml:space="preserve">
+                <source>Short name (SK):</source>
+                <target>Nom court (SK):</target>
+            </trans-unit>
+            <trans-unit id="static_country_zones_item.zn_name_sk" xml:space="preserve">
+                <source>Name (SK):</source>
+                <target>Nom (SK):</target>
+            </trans-unit>
+            <trans-unit id="static_languages_item.lg_name_sk" xml:space="preserve">
+                <source>Name (SK):</source>
+                <target>Nom (SK):</target>
+            </trans-unit>
+            <trans-unit id="static_currencies_item.cu_name_sk" xml:space="preserve">
+                <source>Name (SK):</source>
+                <target>Nom (SK):</target>
+            </trans-unit>
+            <trans-unit id="static_currencies_item.cu_sub_name_sk" xml:space="preserve">
+                <source>Sub name (SK):</source>
+                <target>Nom de subdivision (SK):</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
