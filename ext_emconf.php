@@ -5,7 +5,7 @@ $EM_CONF[$_EXTKEY] = [
     'description' => '(sk) language pack for the Static Info Tables providing localized names for countries, 
                         currencies and so on.',
     'category' => 'misc',
-    'version' => '6.3.2',
+    'version' => '6.3.3',
     'priority' => '',
     'loadOrder' => '',
     'module' => '',
@@ -21,7 +21,7 @@ $EM_CONF[$_EXTKEY] = [
         'depends' => [
             'static_info_tables' => '6.3.0-6.3.99',
             'php' => '5.5.0-0.0.0',
-            'typo3' => '7.6.00-7.6.99',
+            'typo3' => '6.2.00-7.6.99',
         ],
         'conflicts' => [
         ],
