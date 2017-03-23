@@ -1,7 +1,7 @@
 <?php
 namespace Mselbach\StaticInfoTablesSk\Tests\Unit\Domain\Model;
-use TYPO3\CMS\Core\Tests\UnitTestCase;
-use TYPO3\CMS\Core\Utility\ExtensionManagementUtility;
+
+use Nimut\TestingFramework\TestCase\UnitTestCase;
 
 /**
  * CountryTest
@@ -9,10 +9,10 @@ use TYPO3\CMS\Core\Utility\ExtensionManagementUtility;
 class CountryTest extends UnitTestCase
 {
     /**
-     * @test
+     * Initial test
      */
     public function testRegistration()
     {
-        
+
     }
 }
