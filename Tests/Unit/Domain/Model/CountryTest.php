@@ -1,12 +1,11 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Mselbach\StaticInfoTablesSk\Tests\Unit\Domain\Model;
 
-use Nimut\TestingFramework\TestCase\UnitTestCase;
+use TYPO3\TestingFramework\Core\Unit\UnitTestCase;
 
-/**
- * CountryTest
- */
 class CountryTest extends UnitTestCase
 {
     /**
